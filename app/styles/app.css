@@ -32,3 +32,7 @@ body > .ember-view {
 .card {
   min-height: 30vh;
 }
+
+.custom-control-label {
+  cursor: pointer;
+}
